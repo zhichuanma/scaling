@@ -1,0 +1,31 @@
+﻿equipment,steel,aluminium,copper,aluminium silicate,rubber,plastic,silicon carbide,ceramic,glass,titanium,sections
+cleaning              ,5895.56352,0,310.2928168,0,0,0,0,0,0,0,CCM
+drying                ,1500,300,300,300,8,0,0,0,0,0,CCM
+mixing                ,5895.56352,0,310.2928168,0,0,0,0,0,0,0,CCM
+deforming             ,902.5,0,47.5,0,0,0,0,0,0,0,CCM
+quarlity control      ,0,0,0,0,0,0,0,0,0,0,CCM
+spraying              ,455,97.5,65,0,0,32.5,0,0,0,0,CCM
+drying                ,1500,300,300,300,8,0,0,0,0,0,CCM
+mixing                ,11791.12704,0,620.5856337,0,0,0,0,0,0,0,CCM
+deforming             ,902.5,0,47.5,0,0,0,0,0,0,0,CCM
+spraying              ,455,97.5,65,0,0,32.5,0,0,0,0,CCM
+quarlity control      ,0,0,0,0,0,0,0,0,0,0,CCM
+cutting               ,500,400,45,0,0,0,0,0,0,0,CCM
+mixing                ,5895.56352,0,310.2928168,0,0,0,0,0,0,0,PTL
+compacting            ,1750,375,125,0,0,250,0,0,0,0,PTL
+sintering             ,204.1,31.4,15.7,0,0,0,62.8,0,0,0,PTL
+PVD coating           ,480,240,120,0,0,120,0,120,0,120,PTL
+quarlity control      ,0,0,0,0,0,0,0,0,0,0,PTL
+cutting               ,500,400,45,0,0,0,0,0,0,0,PTL
+injection molding     ,24,8,4,0,0,4,0,0,0,0,MEA
+blanking              ,1800,600,300,0,300,0,0,0,0,0,BP
+stamping              ,10800,3600,1800,0,0,1800,0,0,0,0,BP
+cleaning              ,5895.56352,0,310.2928168,0,0,0,0,0,0,0,BP
+PVD coating           ,480,240,120,0,0,120,0,120,0,120,BP
+quality control       ,0,0,0,0,0,0,0,0,0,0,BP
+feeding bipolar plate ,0,0,0,0,0,0,0,0,0,0,assembly
+print gasket          ,396,132,66,0,0,66,0,0,0,0,assembly
+UV curing             ,180,60,30,0,0,0,0,0,30,0,assembly
+adding MEA            ,0,0,0,0,0,0,0,0,0,0,assembly
+print gasket          ,396,132,66,0,0,66,0,0,0,0,assembly
+UV curing             ,180,60,30,0,0,0,0,0,30,0,assembly

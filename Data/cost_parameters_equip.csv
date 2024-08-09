@@ -1,0 +1,10 @@
+item,Solid,Solid.Fluid,Fluid
+purchase,1,1,1
+delivery,0.1,0.1,0.1
+installation,0.45,0.39,0.47
+instrument,0.09,0.13,0.18
+piping,0.16,0.31,0.66
+engineer,0.33,0.32,0.33
+construction,0.39,0.34,0.41
+contract,0.17,0.18,0.21
+contigency,0.34,0.36,0.42

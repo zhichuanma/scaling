@@ -1,0 +1,36 @@
+﻿equipment,steel,aluminium,copper,aluminium silicate,rubber,titanium,ceramic,plastic,silicon carbide,zinconia,tungsten carbide,section
+slurry mixer,5895.6,0,310.3,0,0,0,0,0,0,0,0,EEA
+ball mill,55,11,11,0,0,0,0,11,0,11,11,EEA
+de-airing,296.82,0,16.49,0,0,0,0,16.49,0,0,0,EEA
+tape casting,0,0,0,0,0,0,0,0,0,0,0,EEA
+drying,1500,300,300,300,8,0,0,0,0,0,0,EEA
+quality control,0,0,0,0,0,0,0,0,0,0,0,EEA
+peeling,0,0,0,0,0,0,0,0,0,0,0,EEA
+slurry mixer,5895.6,0,310.3,0,0,0,0,0,0,0,0,EEA
+screen painting,396,132,66,0,0,0,0,66,0,0,0,EEA
+drying,1500,300,300,300,8,0,0,0,0,0,0,EEA
+slurry mixer,5895.6,0,310.3,0,0,0,0,0,0,0,0,EEA
+screen printing,396,132,66,0,0,0,0,66,0,0,0,EEA
+drying,1500,300,300,300,8,0,0,0,0,0,0,EEA
+slurry mixer,5895.6,0,310.3,0,0,0,0,0,0,0,0,EEA
+screen printing,396,132,66,0,0,0,0,66,0,0,0,EEA
+drying,1500,300,300,300,8,0,0,0,0,0,0,EEA
+slurry mixer,5895.6,0,310.3,0,0,0,0,0,0,0,0,EEA
+screen printing,396,132,66,0,0,0,0,66,0,0,0,EEA
+drying,1500,300,300,300,8,0,0,0,0,0,0,EEA
+quality control,0,0,0,0,0,0,0,0,0,0,0,EEA
+co-firing,204.1,31.4,15.7,0,0,0,0,0,62.8,0,0,EEA
+quality control,0,0,0,0,0,0,0,0,0,0,0,EEA
+cutting,500,400,45,0,0,0,0,0,0,0,0,EEA
+stamping,10800,3600,1800,0,1800,0,0,0,0,0,0,Interconnect Production Line
+cleaning,5895.6,0,310.3,0,0,0,0,0,0,0,0,Interconnect Production Line
+arc-PVD,480,240,120,0,0,120,120,120,0,0,0,Interconnect Production Line
+quality control,0,0,0,0,0,0,0,0,0,0,0,Interconnect Production Line
+injection molding,24,8,4,0,0,0,0,4,0,0,0,Glass Seal Production Line
+annealing furnace,204.1,31.4,15.7,0,0,0,0,0,62.8,0,0,Glass Seal Production Line
+feeding interconnect,0,0,0,0,0,0,0,0,0,0,0,SOEC assembly Line
+feeding interconnect,0,0,0,0,0,0,0,0,0,0,0,SOEC assembly Line
+feeding MEA,0,0,0,0,0,0,0,0,0,0,0,SOEC assembly Line
+feeding MEA,0,0,0,0,0,0,0,0,0,0,0,SOEC assembly Line
+pressing,1750,375,125,0,0,0,0,250,0,0,0,SOEC assembly Line
+quality control,0,0,0,0,0,0,0,0,0,0,0,SOEC assembly Line
